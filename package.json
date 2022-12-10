@@ -13,7 +13,7 @@
     "bluebird": "^3.7.2",
     "child_process": "^1.0.2",
     "cors": "^2.8.5",
-    "express": "^4.16.4",
+    "express": "^4.17.3",
     "fs": "0.0.1-security",
     "jsonwebtoken": "^8.5.1",
     "mysql": "^2.17.1",
